@@ -1,4 +1,4 @@
-🩻 Tuberculosis Detection from Chest X-Rays using EfficientNetB0
+Tuberculosis Detection from Chest X-Rays using EfficientNetB0
 
 ================================================================
 
@@ -8,7 +8,7 @@ This project demonstrates a deep learning-based approach for detecting Tuberculo
 
   
 
-✅ Features
+Features
 
 ----------
 
@@ -26,7 +26,7 @@ This project demonstrates a deep learning-based approach for detecting Tuberculo
 
   
 
-🧰 Prerequisites
+Prerequisites
 
 ----------------
 
@@ -50,7 +50,7 @@ This project demonstrates a deep learning-based approach for detecting Tuberculo
 
   
 
-### 📦 Install dependencies:
+###  Install dependencies:
 
   
 
@@ -58,7 +58,7 @@ This project demonstrates a deep learning-based approach for detecting Tuberculo
 
   
 
-📁 Dataset Structure
+Dataset Structure
 
 --------------------
 
@@ -81,7 +81,7 @@ Organize your dataset as follows:
 
   
 
-🏋‍♂ Training
+Training
 
 ---------------
 
@@ -99,7 +99,7 @@ This will train the model for 10 epochs and save the weights to efficientnet\_tb
 
   
 
-🧪 Evaluation
+Evaluation
 
 -------------
 
@@ -125,7 +125,7 @@ You will see:
 
   
 
-🔮 Prediction on Single X-ray Image
+Prediction on Single X-ray Image
 
 -----------------------------------
 
@@ -147,7 +147,7 @@ You will be prompted:
 
   
 
-📦 File Overview
+File Overview
 
 ----------------
 
@@ -163,7 +163,7 @@ You will be prompted:
 
   
 
-⚠ Notes
+Notes
 
 --------
 
@@ -177,7 +177,7 @@ You will be prompted:
 
   
 
-🚀 Future Improvements
+Future Improvements
 
 ----------------------
 
